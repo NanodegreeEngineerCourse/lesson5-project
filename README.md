@@ -1,4 +1,7 @@
 <include a CircleCI status badge, here>
+# Template:
+[![nenefox](https://circleci.com/gh/nenefox/lesson5-project.svg?style=svg)](https://circleci.com/gh/nenefox/lesson5-project)
+
 
 ## Project Overview
 
